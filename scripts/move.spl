@@ -1,0 +1,6 @@
+start
+end
+
+update
+	transform.position.x add 2.0
+end

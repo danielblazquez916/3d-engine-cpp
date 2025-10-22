@@ -1,0 +1,48 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de glad.c producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son GLAD\src\glad.c, include\GLAD\src\glad.c.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de glm.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son GLM\detail\glm.cpp, include\GLM\detail\glm.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui.cpp, include\IMGUI\imgui.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de ImGuizmo.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\ImGuizmo.cpp, include\IMGUI\ImGuizmo.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_demo.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_demo.cpp, include\IMGUI\imgui_demo.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_draw.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_draw.cpp, include\IMGUI\imgui_draw.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_impl_glfw.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_impl_glfw.cpp, include\IMGUI\imgui_impl_glfw.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_impl_opengl3.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_impl_opengl3.cpp, include\IMGUI\imgui_impl_opengl3.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_tables.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_tables.cpp, include\IMGUI\imgui_tables.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1122,5): warning MSB8027: Dos o más archivos con el mismo nombre de imgui_widgets.cpp producirán salidas en la misma ubicación. Esto puede dar lugar a un resultado de compilación incorrecto. Los archivos implicados son IMGUI\imgui_widgets.cpp, include\IMGUI\imgui_widgets.cpp.
+  glm.cpp
+  imgui.cpp
+  ImGuizmo.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+\GLM\detail\glm.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'GLM\detail\glm.cpp': No such file or directory
+  imgui_impl_glfw.cpp
+  (compilando archivo de origen "/GLM/detail/glm.cpp")
+  
+\IMGUI\imgui.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui.cpp")
+  
+\IMGUI\ImGuizmo.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\ImGuizmo.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/ImGuizmo.cpp")
+  
+\IMGUI\imgui_demo.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_demo.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_demo.cpp")
+  
+\IMGUI\imgui_draw.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_draw.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_draw.cpp")
+  
+\IMGUI\imgui_impl_glfw.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_impl_glfw.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_impl_glfw.cpp")
+  
+  imgui_impl_opengl3.cpp
+\IMGUI\imgui_impl_opengl3.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_impl_opengl3.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_impl_opengl3.cpp")
+  
+  imgui_tables.cpp
+\IMGUI\imgui_tables.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_tables.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_tables.cpp")
+  
+  imgui_widgets.cpp
+\IMGUI\imgui_widgets.cpp(1,1): error C1083: No se puede abrir el archivo origen: 'IMGUI\imgui_widgets.cpp': No such file or directory
+  (compilando archivo de origen "/IMGUI/imgui_widgets.cpp")
+  
+  VAOFactory.cpp
+  Generando código...
