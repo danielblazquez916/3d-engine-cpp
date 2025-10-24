@@ -1,5 +1,5 @@
 <h1 align="center">Serlliber Engine: <br>3D Graphics Engine in C++ & OpenGL</h1>
-<p align="center"><a href="#project-description">Project Description</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a></p>
 
 <img src="readme_imgs/skybox.png" alt="" align="middle" width="auto" height="auto">
 
