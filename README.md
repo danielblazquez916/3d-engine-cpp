@@ -3,10 +3,11 @@
 
 <img src="readme_imgs/skybox.png" alt="" align="middle" width="auto" height="auto">
 
-## Project Description
+## Project Description:
 
 <p><strong>Serlliber Engine</strong> is a prototype 3D graphics engine developed in <strong>C++</strong> using <strong>OpenGL</strong> and <strong>ImGui</strong> for the interface. It allows users to create and manipulate 3D scenes with a variety of features, including:</p>
 
+## Features:
 <ul style="text-align: left; display: inline-block;">
   <li><strong>Customizable Skyboxes</strong> to set the background environment of your scenes.</li>
   <li><strong>Model Importing</strong>: Load and use 3D models with ease.</li>
