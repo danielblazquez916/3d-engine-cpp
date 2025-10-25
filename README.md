@@ -1,7 +1,7 @@
 <h1 align="center">Serlliber Engine: <br>3D Graphics Engine in C++ & OpenGL</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
-<img src="" alt="" align="middle" width="auto" height="auto">
+<img src="screenshots/Serlliber Engine.png" alt="" align="middle" width="auto" height="auto">
 
 ## Project Description:
 
