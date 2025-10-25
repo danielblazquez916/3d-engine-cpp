@@ -1,5 +1,5 @@
 <h1 align="center">Serlliber Engine: <br>3D Graphics Engine in C++ & OpenGL</h1>
-<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a></p>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
 <img src="readme_imgs/skybox.png" alt="" align="middle" width="auto" height="auto">
 
@@ -18,3 +18,9 @@
 </ul>
 
 <p>This project is my <strong>first graphics engine</strong>, serving as a functional prototype. While not fully complete, it demonstrates <strong>core engine concepts</strong>, scene management, rendering techniques, and interface integration. It reflects hands-on experience with <strong>low-level graphics programming</strong> and engine architecture.</p>
+
+## Tech Stack:
+
+## Installation:
+
+## Screenshots:
