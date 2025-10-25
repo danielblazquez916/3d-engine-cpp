@@ -1,7 +1,7 @@
 <h1 align="center">Serlliber Engine: <br>3D Graphics Engine in C++ & OpenGL</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#features">Features</a> - <a href="#tech-stack">Tech Stack</a> - <a href="#installation">Installation</a> - <a href="#screenshots">Screenshots</a></p>
 
-<img src="readme_imgs/skybox.png" alt="" align="middle" width="auto" height="auto">
+<img src="" alt="" align="middle" width="auto" height="auto">
 
 ## Project Description:
 
@@ -20,7 +20,22 @@
 <p>This project is my <strong>first graphics engine</strong>, serving as a functional prototype. While not fully complete, it demonstrates <strong>core engine concepts</strong>, scene management, rendering techniques, and interface integration. It reflects hands-on experience with <strong>low-level graphics programming</strong> and engine architecture.</p>
 
 ## Tech Stack:
+<ul style="text-align: left; display: inline-block;">
+  <li>Languages: C++, GLSL (OpenGL Shading Language), JSON.</li>
+  <li>Libraries: GLAD, GLFW, GLM, ImGui, Assimp, nlohmann JSON.</li>
+  <li>Tools: Git, Visual Studio, CMake.</li>
+</ul>
 
 ## Installation:
+1. Clone the repository:
+```bash 
+  git clone https://github.com/tuusuario/tu-repo.git](https://github.com/danielblazquez916/3d-engine-cpp.git
+```
+2. Open the .sln file in Visual Studio.
+3. Select Debug or Release mode.
+4. Press <kbd>F5</kbd> or click Start Debugging to launch the engine.
+
+- If you want to compile the code in an IDE other than Visual Studio, you’ll need to use CMake to generate the appropriate project files for your IDE.
+However, my recommendation is to use Visual Studio to run the engine!
 
 ## Screenshots:
