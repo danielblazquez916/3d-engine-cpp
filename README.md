@@ -31,7 +31,7 @@
 ## Installation:
 1. Clone the repository:
 ```bash 
-  git clone https://github.com/tuusuario/tu-repo.git](https://github.com/danielblazquez916/3d-engine-cpp.git
+  git clone https://github.com/danielblazquez916/3d-engine-cpp.git
 ```
 2. Open the .sln file in Visual Studio.
 3. Select Debug or Release mode.
